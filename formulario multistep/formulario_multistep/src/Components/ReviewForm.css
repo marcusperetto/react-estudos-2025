@@ -1,0 +1,22 @@
+.form-control {
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    justify-content: center;
+}
+
+span {
+    padding: 1rem;
+    cursor: pointer;
+}
+
+.radio-container {
+    text-align: center;
+}
+
+.radio-container p {
+    font-style: italic;
+    font-weight: 300;
+    font-size: .7rem;
+    margin-top: .4rem   ;
+}
